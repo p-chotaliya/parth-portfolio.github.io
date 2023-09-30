@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/parth-portfolio.github.io/static/css/main.c6d6758a.css",
+    "main.js": "/parth-portfolio.github.io/static/js/main.008e849e.js",
+    "static/js/713.9be4dede.chunk.js": "/parth-portfolio.github.io/static/js/713.9be4dede.chunk.js",
+    "static/js/628.1eb07ed9.chunk.js": "/parth-portfolio.github.io/static/js/628.1eb07ed9.chunk.js",
+    "static/js/28.1a14a3d2.chunk.js": "/parth-portfolio.github.io/static/js/28.1a14a3d2.chunk.js",
+    "static/js/747.089e8474.chunk.js": "/parth-portfolio.github.io/static/js/747.089e8474.chunk.js",
+    "static/js/201.0733d07a.chunk.js": "/parth-portfolio.github.io/static/js/201.0733d07a.chunk.js",
+    "static/css/413.b2b7ec8e.chunk.css": "/parth-portfolio.github.io/static/css/413.b2b7ec8e.chunk.css",
+    "static/js/413.09c2bb49.chunk.js": "/parth-portfolio.github.io/static/js/413.09c2bb49.chunk.js",
+    "static/js/377.623c6715.chunk.js": "/parth-portfolio.github.io/static/js/377.623c6715.chunk.js",
+    "static/js/625.1c45be95.chunk.js": "/parth-portfolio.github.io/static/js/625.1c45be95.chunk.js",
+    "static/media/Parth_Resume.pdf": "/parth-portfolio.github.io/static/media/Parth_Resume.722b1f24b8df691c74f4.pdf",
+    "static/media/bg-effects.png": "/parth-portfolio.github.io/static/media/bg-effects.2715491bf37396a2d751.png",
+    "index.html": "/parth-portfolio.github.io/index.html",
+    "main.c6d6758a.css.map": "/parth-portfolio.github.io/static/css/main.c6d6758a.css.map",
+    "main.008e849e.js.map": "/parth-portfolio.github.io/static/js/main.008e849e.js.map",
+    "713.9be4dede.chunk.js.map": "/parth-portfolio.github.io/static/js/713.9be4dede.chunk.js.map",
+    "628.1eb07ed9.chunk.js.map": "/parth-portfolio.github.io/static/js/628.1eb07ed9.chunk.js.map",
+    "28.1a14a3d2.chunk.js.map": "/parth-portfolio.github.io/static/js/28.1a14a3d2.chunk.js.map",
+    "747.089e8474.chunk.js.map": "/parth-portfolio.github.io/static/js/747.089e8474.chunk.js.map",
+    "201.0733d07a.chunk.js.map": "/parth-portfolio.github.io/static/js/201.0733d07a.chunk.js.map",
+    "413.b2b7ec8e.chunk.css.map": "/parth-portfolio.github.io/static/css/413.b2b7ec8e.chunk.css.map",
+    "413.09c2bb49.chunk.js.map": "/parth-portfolio.github.io/static/js/413.09c2bb49.chunk.js.map",
+    "377.623c6715.chunk.js.map": "/parth-portfolio.github.io/static/js/377.623c6715.chunk.js.map",
+    "625.1c45be95.chunk.js.map": "/parth-portfolio.github.io/static/js/625.1c45be95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6d6758a.css",
+    "static/js/main.008e849e.js"
+  ]
+}
