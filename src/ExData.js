@@ -1,0 +1,65 @@
+const workHistory = [
+  {
+    companyName: "Digimaze",
+    role: "Fullstack Software Developer",
+    duration: "Aug'22 – March'23",
+    workDes: [
+      "Collaborated on the user interface using NextJS and delve into React Redux library for state management. Leveraged MongoDB for efficient data storage and retrieval",
+      "Utilized NodeJS Micro-service and ExpressJS to create an optimized REST API, significantly enhancing the performance of the company’s Review System project.",
+      "Crafted a robust React-based web application, leveraging expertise in HTML, CSS, JQuery, and external JavaScript libraries.",
+      "Facilitated training documents using Confluence and provided ongoing support to end-users.",
+      "Configured and deployed web applications on Digital Ocean and AWS server, incorporating Amazon Lambda, EC2, and S3 Bucket concepts.",
+    ],
+    exposer: [
+      "React",
+      "Next",
+      "Redux",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDB",
+      "Amazon Lamda",
+      "Amazon AWS",
+    ],
+    link: "https://digimaze.io/",
+  },
+  {
+    companyName: "Infosys Limited",
+    role: "Senior System Engineer",
+    duration: "Oct'20 – Jul'22",
+    workDes: [
+      "Engineered microservices with Node.js to build robust and scalable RESTful APIs. Utilized NPM Packages, including MySQL and Mongoose for database interaction retrieval within the application.",
+      "Demonstrated proficiency in maintaining a robustAngularframework-based web application codebase, leveraging TypeScript, HTML, CSS, and JavaScript expertise.",
+      "Tailored REST APIs for Informatica’s business entity service, enabling streamlined retrieval of extensive data sets.",
+      "Managed Java EE based web app codebase, utilizing Core JAVA, JSP, Servlet, JDBC and Oracle and DB2 Database for customized report generation",
+      "Configured the Jenkins CI/CD pipeline to automate the deployment of JAVA Builds, reducing deployment time by 50%.",
+      "Collaborated on cross-functional migration of legacy data into Informatica MDM via Informatica Data Quality ETL, enhancing data accuracy by 75% for CN Rails and BNSF Railways clients.",
+    ],
+    exposer: [
+      "Informatica MDM ",
+      "JAVA",
+      "Spring Boot",
+      "Apahe Tomcat",
+      "Oracle Essbase",
+      "Amazon AWS",
+      "Node JS",
+      "Angular",
+      "JAVA EE",
+      "React JS",
+    ],
+    link: "https://www.infosys.com/",
+  },
+  {
+    companyName: "Infosys Limited",
+    role: "System Engineer Intern",
+    duration: "Jan'20 – Mar'20",
+    workDes: [
+      "Completed in-depth training in Python,JavaScript Core Java, Data Structures, RDBMS, and PL/SQL.",
+      "Created a Python web scraping automation script for a project.",
+      "Trained in NodeJS and Java to design and develop microservices and Rest APIs for scalable web applications.",
+    ],
+    exposer: ["Python", "JAVA", "PL/SQL", "Oracle", "Data Structure"],
+    link: "https://www.infosys.com/",
+  },
+];
+
+export default workHistory;
