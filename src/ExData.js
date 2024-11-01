@@ -1,5 +1,41 @@
 const workHistory = [
   {
+    companyName: "Arolytics",
+    role: "Fullstack Software Developer",
+    duration: "Oct'23 – Oct'24",
+    workDes: [
+      "Optimized a large-scale React application using styled-components for modular CSS and Redux and Context API for state management, enhancing performance.",
+      "Created and optimized APIs using Python Flask, incorporating Redis caching mechanisms for faster data retrieval, reducing response latency by 35% and improving system reliability by 40%.",
+      "Deployed web applications to AWS, integrating EC2, AWS Serverless, AWS Lamda and S3 along with CPU utilization alerts, streamlining deployment and enhancing system performance..",
+      "Enhanced system efficiency by 25% and reduced large dataset query times by 30% through MongoDB schema design, aggregation framework optimization, and query tuning.",
+      "Collaborated with design and product teams to transform business ideas into functional applications, driving core epic development that meets product needs",
+      "Conducted peer code reviews on GitHub to uphold quality standards and ensure alignment with strategic goals, leveraging GitHub Actions to automate testing and deployment processes",
+      "Created dynamic visualizations for methane emissions using React Query, Mapbox API, DeckGL, and React Charts, boosting data accessibility and engagemen",
+      "Implemented automated testing processes using Jest and React Testing Library, resulting in a 40% increase in test coverage and a 25% decrease in bug resolution time"
+    ],
+    exposer: [
+      "React",
+      "React Query",
+      "Redux",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDB",
+      "Amazon Lamda",
+      "Amazon AWS",
+      "Python",
+      "Flask",
+      "Redis",
+      "Jest",
+      "React Testing Library",
+      "Mapbox API",
+      "DeckGL",
+      "React Charts",
+      "Styled Components",
+    ],
+    link: "https://www.arolytics.com/",
+  }
+  ,
+  {
     companyName: "Digimaze",
     role: "Fullstack Software Developer",
     duration: "Aug'22 – March'23",

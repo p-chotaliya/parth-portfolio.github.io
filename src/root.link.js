@@ -8,4 +8,4 @@ export const EMAIL_ID = "chotaliyaparth.pc@gmail.com";
 export const TWITTER_ID = "";
 export const FRONT_PAGE_NAME = "Parth";
 export const FRONT_PAGE_DESC =
-  "I'm Full Stack Developer passionate about innovative web app development. I'm Versatile tech enthusiast with expertise in JavaScript, Python, and Java.";
+  "I'm Full Stack Developer passionate about innovative web app development. I'm Versatile tech enthusiast with expertise in React, Angular, NodeJS, JavaScript, TypeScript, Python, Java and AWS. I'm a quick learner and always eager to learn new technologies.";
