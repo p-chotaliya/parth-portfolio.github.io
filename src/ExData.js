@@ -4,14 +4,14 @@ const workHistory = [
     role: "Fullstack Software Developer",
     duration: "Oct'23 – Oct'24",
     workDes: [
-      "Optimized a large-scale React application using styled-components for modular CSS and Redux and Context API for state management, enhancing performance.",
-      "Created and optimized APIs using Python Flask, incorporating Redis caching mechanisms for faster data retrieval, reducing response latency by 35% and improving system reliability by 40%.",
-      "Deployed web applications to AWS, integrating EC2, AWS Serverless, AWS Lamda and S3 along with CPU utilization alerts, streamlining deployment and enhancing system performance..",
-      "Enhanced system efficiency by 25% and reduced large dataset query times by 30% through MongoDB schema design, aggregation framework optimization, and query tuning.",
-      "Collaborated with design and product teams to transform business ideas into functional applications, driving core epic development that meets product needs",
-      "Conducted peer code reviews on GitHub to uphold quality standards and ensure alignment with strategic goals, leveraging GitHub Actions to automate testing and deployment processes",
-      "Created dynamic visualizations for methane emissions using React Query, Mapbox API, DeckGL, and React Charts, boosting data accessibility and engagemen",
-      "Implemented automated testing processes using Jest and React Testing Library, resulting in a 40% increase in test coverage and a 25% decrease in bug resolution time"
+      "I played a key part in building a methane emissions analysis platform, crafting user-centric interfaces with React, Redux, styled-components, HTML, CSS, and TailwindCSS. My expertise in GIS and visualization tools, such as React Charts, Mapbox API, and Deck GL, allowed me to deliver insightful visualizations that support critical decision-making for emissions management.",
+      "On the back end, I developed robust automation scripts and RESTful APIs with Python, Node.js, and Java, streamlining data processes and enhancing application performance. I also designed efficient NoSQL schemas in MongoDB, optimizing aggregation queries and tuning performance to handle large, complex datasets. By continuously optimizing these data workflows, I ensured quick, accurate data retrieval, further enriching the user experience.",
+      "Collaborating closely with cross-functional teams, I iterated on features to align with client objectives and enhance usability. My contributions helped create a responsive, high-impact platform that addresses complex environmental challenges through data transparency and innovative technology.",
+      // "Enhanced system efficiency by 25% and reduced large dataset query times by 30% through MongoDB schema design, aggregation framework optimization, and query tuning.",
+      // "Collaborated with design and product teams to transform business ideas into functional applications, driving core epic development that meets product needs",
+      // "Conducted peer code reviews on GitHub to uphold quality standards and ensure alignment with strategic goals, leveraging GitHub Actions to automate testing and deployment processes",
+      // "Created dynamic visualizations for methane emissions using React Query, Mapbox API, DeckGL, and React Charts, boosting data accessibility and engagemen",
+      // "Implemented automated testing processes using Jest and React Testing Library, resulting in a 40% increase in test coverage and a 25% decrease in bug resolution time"
     ],
     exposer: [
       "React",
@@ -40,11 +40,12 @@ const workHistory = [
     role: "Fullstack Software Developer",
     duration: "Aug'22 – March'23",
     workDes: [
-      "Collaborated on the user interface using NextJS and delve into React Redux library for state management. Leveraged MongoDB for efficient data storage and retrieval",
-      "Utilized NodeJS Micro-service and ExpressJS to create an optimized REST API, significantly enhancing the performance of the company’s Review System project.",
-      "Crafted a robust React-based web application, leveraging expertise in HTML, CSS, JQuery, and external JavaScript libraries.",
-      "Facilitated training documents using Confluence and provided ongoing support to end-users.",
-      "Configured and deployed web applications on Digital Ocean and AWS server, incorporating Amazon Lambda, EC2, and S3 Bucket concepts.",
+      "At DigiMaze, an early-stage startup, I was instrumental in developing a review referral system aimed at boosting user engagement and brand advocacy. I collaborated on building a dynamic UI with Next.js (React framework), implementing React Redux for efficient state management and MongoDB for seamless data storage and retrieval.",
+      "In close collaboration with the design team, I translated Figma prototypes into functional, responsive React components, elevating both the visual appeal and user experience. On the back end, I developed high-performance REST APIs using Java Spring Boot, Node.js microservices with Express.js, and Python Flask. I also incorporated GraphQL APIs via Apollo, optimizing system functionality to support data-driven and scalable features",
+       "Configured and deployed web applications on Digital Ocean and AWS server, incorporating Amazon Lambda, EC2, and S3 Bucket concepts.",
+      "Through these efforts, I contributed to building a robust, user-centered platform, helping DigiMaze establish a foundation for scalable growth and impactful customer engagement in a fast-paced startup setting",
+      // "Facilitated training documents using Confluence and provided ongoing support to end-users.",
+     
     ],
     exposer: [
       "React",
