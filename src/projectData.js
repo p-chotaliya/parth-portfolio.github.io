@@ -14,6 +14,7 @@ const projects = [
       "Private Repository",
     ],
     github: "https://github.com/p-chotaliya/Hiren-Front_v1",
+    link:"http://upload.softizoinfotech.com/login"
   },
   {
     title: "AR Application",
@@ -46,14 +47,6 @@ const projects = [
     description:
       "I designed and launched the 'Tripy Bird' Android game using C# and Unity Studio. This engaging game features integrated Google Ads, monetizing user interactions. 'Tripy Bird' is available for download on the Play Store, showcasing my game development expertise and successful deployment in the mobile gaming market.",
     tools: ["C#", "Android", "Unity Studio", "Google Ads"],
-    github: "",
-  },
-  {
-    title: "Web Search Engine",
-    image: "./images/SmartAssess.jpg",
-    description:
-      "Developed console-based application using concepts studied in advanced computing concepts subject including implementation of more than five algorithms. Utilized java as a programming language to provide word recognition and suggestion functions.",
-    tools: ["JAVA", "Spring", "Eclips", "Spring Boot"],
     github: "",
   },
 ];
